@@ -1,0 +1,15 @@
+.parallax {
+    background-image: url("material/fight.jpg");
+    height: 100%;
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#credits {
+  background-image: url(material/hogwarts.jpg);
+  height: 78.5vh;
+  background-size: cover;
+}
